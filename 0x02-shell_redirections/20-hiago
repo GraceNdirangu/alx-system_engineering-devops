@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Children chill" | tr -d 'cC'
